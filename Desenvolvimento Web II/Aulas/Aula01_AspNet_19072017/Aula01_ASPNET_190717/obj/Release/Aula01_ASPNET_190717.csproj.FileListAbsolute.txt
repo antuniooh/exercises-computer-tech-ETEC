@@ -1,0 +1,5 @@
+F:\Nova pasta\Aula01_ASPNET_190717\Aula01_ASPNET_190717\bin\Aula01_ASPNET_190717.dll
+F:\Nova pasta\Aula01_ASPNET_190717\Aula01_ASPNET_190717\bin\Aula01_ASPNET_190717.pdb
+F:\Nova pasta\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Release\Aula01_ASPNET_190717.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Release\Aula01_ASPNET_190717.dll
+F:\Nova pasta\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Release\Aula01_ASPNET_190717.pdb

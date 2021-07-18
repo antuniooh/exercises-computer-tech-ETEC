@@ -1,0 +1,24 @@
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe.config
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.pdb
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.BancoDeDados_SQLServer.resources
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.pdb
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe.config
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.pdb
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.BancoDeDados_SQLServer.resources
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - Cópia\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.pdb
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe.config
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.pdb
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\bin\Debug\Win_Banco01_SQLSERVER.exe.config
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.exe
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Banco01_SQLSERVER - 2\Win_Banco01_SQLSERVER\obj\Debug\Win_Banco01_SQLSERVER.pdb

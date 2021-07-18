@@ -1,0 +1,19 @@
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.exe.config
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.exe
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.pdb
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1._0_260517.Form1.resources
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1._0_260517.Properties.Resources.resources
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.csproj.GenerateResource.Cache
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.exe
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.pdb
+F:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1._0_260517.FrmFuncionario.resources
+I:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.exe.config
+I:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.exe
+I:\Nova pasta\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.pdb
+C:\Users\familia silva\Desktop\Tecnico\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.exe.config
+C:\Users\familia silva\Desktop\Tecnico\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.exe
+C:\Users\familia silva\Desktop\Tecnico\Analise de Sistemas\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.pdb
+C:\Users\familia silva\Desktop\Tecnico\1° Semestre\ANS\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\bin\Debug\ProjetoBetaPizzaria_v1.0_260517.exe.config
+C:\Users\familia silva\Desktop\Tecnico\1° Semestre\ANS\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.exe
+C:\Users\familia silva\Desktop\Tecnico\1° Semestre\ANS\ProjetoBetaPizzaria_v1.0_260517\ProjetoBetaPizzaria_v1.0_260517\obj\Debug\ProjetoBetaPizzaria_v1.0_260517.pdb

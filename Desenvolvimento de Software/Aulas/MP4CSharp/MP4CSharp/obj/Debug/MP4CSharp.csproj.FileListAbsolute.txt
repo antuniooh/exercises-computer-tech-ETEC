@@ -1,0 +1,31 @@
+F:\Nova pasta\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.exe.config
+F:\Nova pasta\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.exe
+F:\Nova pasta\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.pdb
+F:\Nova pasta\MP4CSharp\MP4CSharp\bin\Debug\Interop.WMPLib.dll
+F:\Nova pasta\MP4CSharp\MP4CSharp\bin\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.MP4CSharp.resources
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.Properties.Resources.resources
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.csproj.GenerateResource.Cache
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.exe
+F:\Nova pasta\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.pdb
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.exe.config
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.exe
+F:\Nova pasta\Luis Carlos\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.pdb
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.exe.config
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\Interop.WMPLib.dll
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\AxInterop.WMPLib.dll
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.csproj.ResolveComReference.cache
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.exe
+I:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.pdb
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\bin\Debug\MP4CSharp.exe.config
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.exe
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP4CSharp\MP4CSharp\obj\Debug\MP4CSharp.pdb

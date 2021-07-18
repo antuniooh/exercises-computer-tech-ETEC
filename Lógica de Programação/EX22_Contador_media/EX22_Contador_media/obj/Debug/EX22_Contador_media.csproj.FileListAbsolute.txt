@@ -1,0 +1,12 @@
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\bin\Debug\EX22_Contador_media.exe.config
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\bin\Debug\EX22_Contador_media.exe
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\bin\Debug\EX22_Contador_media.pdb
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.Form1.resources
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.exe
+C:\Users\ETECLG\Desktop\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.pdb
+F:\Nova pasta\LOP\EX22_Contador_media\EX22_Contador_media\bin\Debug\EX22_Contador_media.exe.config
+F:\Nova pasta\LOP\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.exe
+F:\Nova pasta\LOP\EX22_Contador_media\EX22_Contador_media\obj\Debug\EX22_Contador_media.pdb

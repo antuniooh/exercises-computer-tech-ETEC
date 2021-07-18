@@ -1,0 +1,15 @@
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\bin\Debug\WinTab_Date.exe.config
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\bin\Debug\WinTab_Date.exe
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\bin\Debug\WinTab_Date.pdb
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.FrmTabData.resources
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.exe
+F:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.pdb
+I:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\bin\Debug\WinTab_Date.exe.config
+I:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.exe
+I:\Nova pasta\Luis Carlos\WinTab_Date\WinTab_Date\obj\Debug\WinTab_Date.pdb
+C:\Users\familia silva\Desktop\WinTab_Date-2\WinTab_Date\bin\Debug\WinTab_Date.exe.config
+C:\Users\familia silva\Desktop\WinTab_Date-2\WinTab_Date\obj\Debug\WinTab_Date.exe
+C:\Users\familia silva\Desktop\WinTab_Date-2\WinTab_Date\obj\Debug\WinTab_Date.pdb

@@ -1,0 +1,27 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe.config
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csprojResolveAssemblyReference.cache
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Form1.resources
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Properties.Resources.resources
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csproj.GenerateResource.Cache
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe.config
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.exe
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.pdb
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.exe
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\bin\Debug\Aula2_ex05_lop_230217.pdb
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csprojResolveAssemblyReference.cache
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Form1.resources
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.Properties.Resources.resources
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex05_lop_230217\Aula2_ex05_lop_230217\obj\Debug\Aula2_ex05_lop_230217.csproj.GenerateResource.Cache

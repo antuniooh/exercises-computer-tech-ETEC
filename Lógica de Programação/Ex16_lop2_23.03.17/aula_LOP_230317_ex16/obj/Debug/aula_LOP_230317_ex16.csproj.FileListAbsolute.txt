@@ -1,0 +1,15 @@
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\bin\Debug\aula_LOP_230317_ex16.exe.config
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.Form1.resources
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\bin\Debug\aula_LOP_230317_ex16.exe
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\bin\Debug\aula_LOP_230317_ex16.pdb
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.exe
+C:\Users\ETECLG\Desktop\aula_LOP_230317_ex16\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.pdb
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Ex16_lop2_230317\aula_LOP_230317_ex16\bin\Debug\aula_LOP_230317_ex16.exe.config
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Ex16_lop2_230317\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.exe
+E:\Conteudo\ETEC\Cleiton Etec\LOP\Ex16_lop2_230317\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.pdb
+F:\Nova pasta\LOP\Ex16_lop2_23.03.17\aula_LOP_230317_ex16\bin\Debug\aula_LOP_230317_ex16.exe.config
+F:\Nova pasta\LOP\Ex16_lop2_23.03.17\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.exe
+F:\Nova pasta\LOP\Ex16_lop2_23.03.17\aula_LOP_230317_ex16\obj\Debug\aula_LOP_230317_ex16.pdb

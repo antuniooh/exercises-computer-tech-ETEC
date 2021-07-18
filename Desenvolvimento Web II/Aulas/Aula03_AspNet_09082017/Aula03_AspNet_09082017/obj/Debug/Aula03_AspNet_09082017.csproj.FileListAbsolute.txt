@@ -1,0 +1,5 @@
+F:\Nova pasta\Cleiton-BDD\Aula03_AspNet_09082017\Aula03_AspNet_09082017\obj\Debug\Aula03_AspNet_09082017.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Cleiton-BDD\Aula03_AspNet_09082017\Aula03_AspNet_09082017\bin\Aula03_AspNet_09082017.dll
+F:\Nova pasta\Cleiton-BDD\Aula03_AspNet_09082017\Aula03_AspNet_09082017\bin\Aula03_AspNet_09082017.pdb
+F:\Nova pasta\Cleiton-BDD\Aula03_AspNet_09082017\Aula03_AspNet_09082017\obj\Debug\Aula03_AspNet_09082017.dll
+F:\Nova pasta\Cleiton-BDD\Aula03_AspNet_09082017\Aula03_AspNet_09082017\obj\Debug\Aula03_AspNet_09082017.pdb

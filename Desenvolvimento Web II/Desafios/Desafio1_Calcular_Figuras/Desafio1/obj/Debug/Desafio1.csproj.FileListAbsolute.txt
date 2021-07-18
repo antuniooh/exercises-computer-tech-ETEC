@@ -1,0 +1,5 @@
+C:\Users\ETECLG\Desktop\Desafio1\Desafio1\bin\Desafio1.dll
+C:\Users\ETECLG\Desktop\Desafio1\Desafio1\bin\Desafio1.pdb
+C:\Users\ETECLG\Desktop\Desafio1\Desafio1\obj\Debug\Desafio1.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Desafio1\Desafio1\obj\Debug\Desafio1.dll
+C:\Users\ETECLG\Desktop\Desafio1\Desafio1\obj\Debug\Desafio1.pdb

@@ -1,0 +1,33 @@
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ETECLG\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\Nova pasta\Luis Carlos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nova pasta\Luis Carlos - DES\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Nova pasta\Luis Carlos - DES\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Nova pasta\Luis Carlos - DES\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_Imagem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_Imagem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_Imagem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_Imagem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_Imagem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_Imagem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

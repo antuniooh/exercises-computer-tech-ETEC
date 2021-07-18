@@ -1,0 +1,17 @@
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.exe.config
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.Exercicio.resources
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.exe
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.pdb
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.exe
+F:\Nova pasta\Luis Carlos\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.pdb
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.exe.config
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.exe
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.pdb
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.exe
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\bin\Debug\ExerciciosRepetição.pdb
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.Exercicio.resources
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.Properties.Resources.resources
+E:\Nova pasta\Luis Carlos - DES\ExerciciosRepetição\ExerciciosRepetição\obj\Debug\ExerciciosRepetição.csproj.GenerateResource.Cache

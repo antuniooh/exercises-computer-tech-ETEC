@@ -1,0 +1,5 @@
+C:\Users\ETECLG\Desktop\Aula03_AspNet_02082017\Aula03_AspNet_02082017\bin\Aula03_AspNet_02082017.dll
+C:\Users\ETECLG\Desktop\Aula03_AspNet_02082017\Aula03_AspNet_02082017\bin\Aula03_AspNet_02082017.pdb
+C:\Users\ETECLG\Desktop\Aula03_AspNet_02082017\Aula03_AspNet_02082017\obj\Debug\Aula03_AspNet_02082017.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Aula03_AspNet_02082017\Aula03_AspNet_02082017\obj\Debug\Aula03_AspNet_02082017.dll
+C:\Users\ETECLG\Desktop\Aula03_AspNet_02082017\Aula03_AspNet_02082017\obj\Debug\Aula03_AspNet_02082017.pdb

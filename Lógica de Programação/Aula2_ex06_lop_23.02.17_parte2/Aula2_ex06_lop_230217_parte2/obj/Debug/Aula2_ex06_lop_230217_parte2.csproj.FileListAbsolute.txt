@@ -1,0 +1,12 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\bin\Debug\Aula2_ex06_lop_230217_parte2.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\bin\Debug\Aula2_ex06_lop_230217_parte2.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\bin\Debug\Aula2_ex06_lop_230217_parte2.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\bin\Debug\Aula2_ex06_lop_230217_parte2.exe.config
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_ex06_lop_230217_parte2\Aula2_ex06_lop_230217_parte2\obj\Debug\Aula2_ex06_lop_230217_parte2.pdb

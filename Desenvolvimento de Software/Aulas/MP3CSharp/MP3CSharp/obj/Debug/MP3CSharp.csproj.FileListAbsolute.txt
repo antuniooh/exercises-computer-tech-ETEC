@@ -1,0 +1,26 @@
+F:\Nova pasta\MP3CSharp\MP3CSharp\bin\Debug\MP3CSharp.exe.config
+F:\Nova pasta\MP3CSharp\MP3CSharp\bin\Debug\MP3CSharp.exe
+F:\Nova pasta\MP3CSharp\MP3CSharp\bin\Debug\MP3CSharp.pdb
+F:\Nova pasta\MP3CSharp\MP3CSharp\bin\Debug\Interop.WMPLib.dll
+F:\Nova pasta\MP3CSharp\MP3CSharp\bin\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.csprojResolveAssemblyReference.cache
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.MP3CSharp.resources
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.Properties.Resources.resources
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.csproj.GenerateResource.Cache
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.exe
+F:\Nova pasta\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.pdb
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\bin\Debug\MP3CSharp.exe.config
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.exe
+F:\Nova pasta\Luis Carlos\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.pdb
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\bin\Debug\MP3CSharp.exe.config
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\obj\Debug\Interop.WMPLib.dll
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\obj\Debug\AxInterop.WMPLib.dll
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.csproj.ResolveComReference.cache
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.exe
+F:\Nova pasta\Luis Carlos - DES\Aulas\MP3CSharp\MP3CSharp\obj\Debug\MP3CSharp.pdb

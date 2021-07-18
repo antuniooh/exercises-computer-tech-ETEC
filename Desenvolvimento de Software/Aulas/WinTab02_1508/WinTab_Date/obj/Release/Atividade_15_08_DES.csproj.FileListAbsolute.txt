@@ -1,0 +1,12 @@
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\bin\Release\WinTab_Date.exe.config
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\bin\Release\WinTab_Date.exe
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\bin\Release\WinTab_Date.pdb
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\Atividade_15_08_DES.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\WinTab_Date.Atividade_15_08_DES.resources
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\WinTab_Date.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\Atividade_15_08_DES.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\WinTab_Date.exe
+C:\Users\ETECLG\Desktop\Exercicio WinTabDate\WinTab_Date\obj\Release\WinTab_Date.pdb
+F:\Nova pasta\Luis Carlos\Atividade_1508_DES\WinTab_Date\bin\Release\WinTab_Date.exe.config
+F:\Nova pasta\Luis Carlos\Atividade_1508_DES\WinTab_Date\obj\Release\WinTab_Date.exe
+F:\Nova pasta\Luis Carlos\Atividade_1508_DES\WinTab_Date\obj\Release\WinTab_Date.pdb

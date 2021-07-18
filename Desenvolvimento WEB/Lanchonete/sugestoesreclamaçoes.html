@@ -1,0 +1,130 @@
+<html>
+<head>
+
+<h1 align="left"><font face ="Parisien Night" size = "16" color="ForestGreen"><B><u> Lanchonete Dattebayo</u></B></font></h1>
+
+<title> Dattebayo - Sugestões e Reclamções </title> 
+
+<a href="Home.html" target="destino" text="home"><h4 align ="left"><font face ="Sneaksfood" size = "7" color="white">|  Home  </font></a>
+<a href="cardapio.html" target="destino" text="cardapio"><font face ="Sneaksfood" size = "7" color="white">  |  Cardápio  |  </font></a>
+<a href="Pedido.html" target="destino" text="pedido"><font face ="Sneaksfood" size = "7" color="white">Pedido  |  </font></a>
+<a href="sugestoesreclamaçoes.html" target="destino" text="sugestoesreclamaçoes"><font face ="Sneaksfood" size = "7" color="white">  Fale Conosco  |</font></h4></a>
+
+</head>
+
+<body background="gu.png"
+link="red" vlink="yellow" 
+topmargin="20" bottommargin="n" leftmargin="180" rightmargin= "320"
+scroll="no" text="cor">
+
+<hr>
+
+<h6 align ="left"><img src="tf.gif" width="400" height="340" alt="texto" vspace="50" hspace="0" border="0" align="right">
+<font face ="Sneaksfood" size = "6" color="#FF4500"><U>Fale Conosco</U></font></h6></h6>
+
+<body style="font-family : Parisien Night; font-size : 17"
+
+<FORM>
+
+Nome:
+<input type="text" name= "Nome" size="35" maxlength="30" value=""
+<hr>
+<br>
+E-mail
+<input type="text" name= "E-mail" size="35" maxlength="100" value="">
+<hr>
+Você quer Fazer:
+<input type="radio" name="Reclamação" value = "Reclamação" cheked>
+Reclamação
+<input type="radio" name= "Sugestão" value = "Sugestão">
+Sugestão
+<hr>
+Mensagem:<br>
+<TEXTAREA NAME="mensagem" ROWS="5" COLS="40">
+</TEXTAREA>
+<hr>
+O que você achou do nosso serviço:
+<br>
+<input type="radio" name= "Muito Bom" value = "Muito Bom">
+Muito Bom
+<input type="radio" name= "Bom" value = "Bom">
+Bom
+<input type="radio" name= "Regular" value = "Regular">
+Regular
+<input type="radio" name= "Insatisfatório" value = "Insatisfatório">
+Insatisfatório
+<br>
+<form action= "antonio.gustavo_@live.com"
+ENCTYPE="TEXT/PLAIN">
+<INPUT TYPE = "SUBMIT"VALUE = "ENVIAR">
+
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!--
+
+var now = new Date();
+var mName = now.getMonth() +1 ;
+var dName = now.getDay() +1;
+var dayNr = now.getDate();
+var yearNr=now.getYear();
+if(dName==1) {Day = "Domingo";}
+if(dName==2) {Day = "Segunda-feira";}
+if(dName==3) {Day = "Terça-feira";}
+if(dName==4) {Day = "Quarta-feira";}
+if(dName==5) {Day = "Quinta-feira";}
+if(dName==6) {Day = "Sexta-feira";}
+if(dName==7) {Day = "Sábado";}
+if(mName==1){Month = "Janeiro";}
+if(mName==2){Month = "Fevereiro";}
+if(mName==3){Month = "Março";}
+if(mName==4){Month = "Abril";}
+if(mName==5){Month = "Maio";}
+if(mName==6){Month = "Junho";}
+if(mName==7){Month = "Julho";}
+if(mName==8){Month = "Agosto";}
+if(mName==9){Month = "Setembro";}
+if(mName==10){Month = "Outubro";}
+if(mName==11){Month = "Novembro";}
+if(mName==12){Month = "Dezembro";}
+if(yearNr < 2000) {Year = 1900 + yearNr;}
+else {Year = yearNr;}
+var todaysDate =(" " + Day + ", " + dayNr + "/" + Month + "/" + Year);
+
+document.write('  '+todaysDate);
+
+//-->
+</SCRIPT>
+
+  
+<SPAN ID="Clock">00:00:00</SPAN>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+  var Elem = document.getElementById("Clock");
+  function Horario(){ 
+    var Hoje = new Date(); 
+    var Horas = Hoje.getHours(); 
+    if(Horas < 10){ 
+      Horas = "0"+Horas; 
+    } 
+    var Minutos = Hoje.getMinutes(); 
+    if(Minutos < 10){ 
+      Minutos = "0"+Minutos; 
+    } 
+    var Segundos = Hoje.getSeconds(); 
+    if(Segundos < 10){ 
+      Segundos = "0"+Segundos; 
+    } 
+    Elem.innerHTML = Horas+":"+Minutos+":"+Segundos; 
+    } 
+    window.setInterval("Horario()",1000);
+//-->
+</SCRIPT>
+
+
+</form>
+
+
+
+
+</body>
+</html>

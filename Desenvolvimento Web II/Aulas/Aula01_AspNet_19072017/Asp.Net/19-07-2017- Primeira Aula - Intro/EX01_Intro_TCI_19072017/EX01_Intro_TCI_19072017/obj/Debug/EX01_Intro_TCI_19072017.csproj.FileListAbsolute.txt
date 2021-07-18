@@ -1,0 +1,12 @@
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\bin\Debug\EX01_Intro_TCI_19072017.exe.config
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\bin\Debug\EX01_Intro_TCI_19072017.exe
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\bin\Debug\EX01_Intro_TCI_19072017.pdb
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.Form1.resources
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.exe
+C:\Users\ETECLG\Desktop\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.pdb
+F:\Nova pasta\Asp.Net\19-07-2017- Primeira Aula - Intro\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\bin\Debug\EX01_Intro_TCI_19072017.exe.config
+F:\Nova pasta\Asp.Net\19-07-2017- Primeira Aula - Intro\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.exe
+F:\Nova pasta\Asp.Net\19-07-2017- Primeira Aula - Intro\EX01_Intro_TCI_19072017\EX01_Intro_TCI_19072017\obj\Debug\EX01_Intro_TCI_19072017.pdb

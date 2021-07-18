@@ -1,0 +1,17 @@
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\bin\Debug\Exerc2.exe.config
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\bin\Debug\Exerc2.exe
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\bin\Debug\Exerc2.pdb
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\obj\Debug\Exerc2.Form1.resources
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\obj\Debug\Exerc2.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\obj\Debug\Exerc2.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\obj\Debug\Exerc2.exe
+C:\Users\ETECLG\Desktop\Exerc2\Exerc2\obj\Debug\Exerc2.pdb
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc2\Exerc2\bin\Debug\Exerc2.exe.config
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc2\Exerc2\obj\Debug\Exerc2.exe
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc2\Exerc2\obj\Debug\Exerc2.pdb
+F:\Nova pasta\Luis Carlos\Antonio - 03\Exerc2\Exerc2\bin\Debug\Exerc2.exe.config
+F:\Nova pasta\Luis Carlos\Antonio - 03\Exerc2\Exerc2\obj\Debug\Exerc2.exe
+F:\Nova pasta\Luis Carlos\Antonio - 03\Exerc2\Exerc2\obj\Debug\Exerc2.pdb
+E:\Nova pasta\Luis Carlos - DES\Exercicios_DES_01\Exerc2\Exerc2\bin\Debug\Exerc2.exe.config
+E:\Nova pasta\Luis Carlos - DES\Exercicios_DES_01\Exerc2\Exerc2\obj\Debug\Exerc2.exe
+E:\Nova pasta\Luis Carlos - DES\Exercicios_DES_01\Exerc2\Exerc2\obj\Debug\Exerc2.pdb

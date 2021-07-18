@@ -1,0 +1,9 @@
+C:\Users\ETECLG\Desktop\Desafio Notícia\Desafio4\bin\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafio Notícia\Desafio4\bin\DIV_Noticia.pdb
+C:\Users\ETECLG\Desktop\Desafio Notícia\Desafio4\obj\Debug\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafio Notícia\Desafio4\obj\Debug\DIV_Noticia.pdb
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Notícia\Desafio4\bin\DIV_Noticia.dll
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Notícia\Desafio4\bin\DIV_Noticia.pdb
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Notícia\Desafio4\obj\Debug\Desafio4.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Notícia\Desafio4\obj\Debug\DIV_Noticia.dll
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Notícia\Desafio4\obj\Debug\DIV_Noticia.pdb

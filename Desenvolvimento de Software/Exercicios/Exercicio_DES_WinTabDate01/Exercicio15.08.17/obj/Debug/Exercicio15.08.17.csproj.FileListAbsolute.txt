@@ -1,0 +1,63 @@
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.pdb
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csprojResolveAssemblyReference.cache
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Form1.resources
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Properties.Resources.resources
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csproj.GenerateResource.Cache
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Conteudo\2º modulo\DES\15.08.17\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.pdb
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Form1.resources
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csproj.GenerateResource.Cache
+G:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+G:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+G:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.pdb
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csprojResolveAssemblyReference.cache
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Form1.resources
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Properties.Resources.resources
+F:\Conteudo\2º modulo\DES\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csproj.GenerateResource.Cache
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.pdb
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csprojResolveAssemblyReference.cache
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Form1.resources
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Properties.Resources.resources
+F:\Mariana Nº 35, Tiago Nº 42\Exercicio15.08.17\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csproj.GenerateResource.Cache
+F:\Exercicio15.08\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Exercicio15.08\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Exercicio15.08\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Exercicio15.08_Ana Nº02\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Exercicio15.08_Ana Nº02\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Exercicio15.08_Ana Nº02\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+E:\Nova pasta\Luis Carlos - DES\Exercicio15.08_Ana Nº02\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+E:\Nova pasta\Luis Carlos - DES\Exercicio15.08_Ana Nº02\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+E:\Nova pasta\Luis Carlos - DES\Exercicio15.08_Ana Nº02\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\bin\Debug\Exercicio15.08.17.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Form1.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15._08._17.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_WinTabDate01\Exercicio15.08.17\obj\Debug\Exercicio15.08.17.csproj.GenerateResource.Cache

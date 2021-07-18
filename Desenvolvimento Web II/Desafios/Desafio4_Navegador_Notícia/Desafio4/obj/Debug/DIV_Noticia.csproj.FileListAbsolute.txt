@@ -1,0 +1,45 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+c:\users\eteclg\documents\visual studio 2012\Projects\DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+c:\users\eteclg\documents\visual studio 2012\Projects\DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+C:\Users\ETECLG\Desktop\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+C:\Users\ETECLG\Desktop\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+F:\Renan\TCI II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+F:\Renan\TCI II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+F:\Renan\TCI II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+F:\Renan\TCI II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+F:\Renan\TCI II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+F:\Conteudo\Técnicas de Programação para Internet II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+F:\Conteudo\Técnicas de Programação para Internet II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+F:\Conteudo\Técnicas de Programação para Internet II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+F:\Conteudo\Técnicas de Programação para Internet II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+F:\Conteudo\Técnicas de Programação para Internet II\Desafios\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+F:\2017\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+F:\2017\DesIV_DIV_Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+F:\2017\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+F:\2017\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+F:\2017\DesIV_DIV_Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+F:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+F:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+F:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+F:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+F:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+E:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+E:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+E:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+E:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+E:\2017\Desafios - Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+F:\Pasta\Desafios do Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+F:\Pasta\Desafios do Cleiton\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+F:\Pasta\Desafios do Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+F:\Pasta\Desafios do Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+F:\Pasta\Desafios do Cleiton\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb
+C:\Users\ETECLG\Desktop\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafio Noticia\DIV_Noticia\bin\DIV_Noticia.pdb
+C:\Users\ETECLG\Desktop\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.dll
+C:\Users\ETECLG\Desktop\Desafio Noticia\DIV_Noticia\obj\Debug\DIV_Noticia.pdb

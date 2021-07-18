@@ -1,0 +1,24 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.pdb
+G:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe.config
+G:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.exe
+G:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.pdb
+F:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe.config
+F:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.exe
+F:\Conteudo\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.pdb
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe.config
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.exe
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.pdb
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.exe
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\bin\Debug\Ex19_LOP_Loop_27042017.pdb
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.csprojResolveAssemblyReference.cache
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.Form1.resources
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.Properties.Resources.resources
+F:\Nova pasta\LOP\Ex19_LOP_Loop_27042017\Ex19_LOP_Loop_27042017\obj\Debug\Ex19_LOP_Loop_27042017.csproj.GenerateResource.Cache

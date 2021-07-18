@@ -1,0 +1,6 @@
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\bin\Debug\ConsoleVerificar.exe.config
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\bin\Debug\ConsoleVerificar.exe
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\bin\Debug\ConsoleVerificar.pdb
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\obj\Debug\ConsoleVerificar.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\obj\Debug\ConsoleVerificar.exe
+C:\Users\ETECLG\Desktop\25072017\ConsoleVerificar\ConsoleVerificar\obj\Debug\ConsoleVerificar.pdb

@@ -1,0 +1,33 @@
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.pdb
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.csprojResolveAssemblyReference.cache
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.Form1.resources
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.Properties.Resources.resources
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.csproj.GenerateResource.Cache
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+C:\Users\Cleiton Fabiano Patr\Desktop\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+C:\Users\Cleiton Fabiano Patr\Desktop\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+C:\Users\Cleiton Fabiano Patr\Desktop\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.pdb
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.csprojResolveAssemblyReference.cache
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.Form1.resources
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.Properties.Resources.resources
+F:\Conteudo\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.csproj.GenerateResource.Cache
+F:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+F:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+F:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+G:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+G:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+G:\Pen Drive Felipe\Informática\Linguagem de Programação\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula01_LOP_090217\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula01_LOP_090217\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb
+F:\Nova pasta\LOP\Aula1_ex01_lop_09.02.17\Aula01_LOP_090217\bin\Debug\Aula01_LOP_090217.exe.config
+F:\Nova pasta\LOP\Aula1_ex01_lop_09.02.17\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.exe
+F:\Nova pasta\LOP\Aula1_ex01_lop_09.02.17\Aula01_LOP_090217\obj\Debug\Aula01_LOP_090217.pdb

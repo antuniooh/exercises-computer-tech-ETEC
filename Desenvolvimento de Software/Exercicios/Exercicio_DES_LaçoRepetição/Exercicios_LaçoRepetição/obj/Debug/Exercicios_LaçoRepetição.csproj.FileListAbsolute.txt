@@ -1,0 +1,9 @@
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\bin\Debug\Exercicios_LaçoRepetição.exe.config
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\bin\Debug\Exercicios_LaçoRepetição.exe
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\bin\Debug\Exercicios_LaçoRepetição.pdb
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.Exercicio_Laço.resources
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.exe
+F:\Nova pasta\Luis Carlos\Exercicios_LaçoRepetição\Exercicios_LaçoRepetição\obj\Debug\Exercicios_LaçoRepetição.pdb

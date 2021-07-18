@@ -1,0 +1,9 @@
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\bin\Debug\Ex21_LOP_Tratatmentoerro.exe.config
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\bin\Debug\Ex21_LOP_Tratatmentoerro.exe
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\bin\Debug\Ex21_LOP_Tratatmentoerro.pdb
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.csprojResolveAssemblyReference.cache
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.Form1.resources
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.Properties.Resources.resources
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.csproj.GenerateResource.Cache
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.exe
+F:\Nova pasta\LOP\Ex21_LOP_Tratatmentoerro\Ex21_LOP_Tratatmentoerro\obj\Debug\Ex21_LOP_Tratatmentoerro.pdb

@@ -1,0 +1,12 @@
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\bin\Debug\ExercicioDES.exe.config
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\bin\Debug\ExercicioDES.exe
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\bin\Debug\ExercicioDES.pdb
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.exe
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.pdb
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.ExercicioRepetiçao.resources
+F:\Nova pasta\Luis Carlos\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.FrmSequencia.resources
+E:\Nova pasta\Luis Carlos - DES\ExercicioDES\ExercicioDES\bin\Debug\ExercicioDES.exe.config
+E:\Nova pasta\Luis Carlos - DES\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.exe
+E:\Nova pasta\Luis Carlos - DES\ExercicioDES\ExercicioDES\obj\Debug\ExercicioDES.pdb

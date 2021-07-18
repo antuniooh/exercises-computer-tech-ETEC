@@ -1,0 +1,5 @@
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_ASPNET_190717\Aula01_ASPNET_190717\bin\Aula01_ASPNET_190717.dll
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_ASPNET_190717\Aula01_ASPNET_190717\bin\Aula01_ASPNET_190717.pdb
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Debug\Aula01_ASPNET_190717.csprojResolveAssemblyReference.cache
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Debug\Aula01_ASPNET_190717.dll
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Aula01_ASPNET_190717\Aula01_ASPNET_190717\obj\Debug\Aula01_ASPNET_190717.pdb

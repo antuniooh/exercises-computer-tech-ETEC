@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Produtos>
+  <Produto>
+    <Codigo>2456</Codigo>
+    <Nome>Caneta Azul</Nome>
+    <Preco>R$ 2,55</Preco>
+    <Estoque>100</Estoque>
+    <Descricao>Bic Ponta Grossa</Descricao>
+  </Produto>
+  <Produto>
+    <Codigo>100</Codigo>
+    <Nome>Folha Sulfite</Nome>
+    <Preco>R$ 10,22</Preco>
+    <Estoque>50</Estoque>
+    <Descricao>Pacote com 500 folha</Descricao>
+  </Produto>
+  <Produto>
+    <Codigo>8528</Codigo>
+    <Nome>Caneta Vermelha</Nome>
+    <Preco>R$ 2,55</Preco>
+    <Estoque>100</Estoque>
+    <Descricao>Bic Ponta Grossa</Descricao>
+  </Produto>
+</Produtos>

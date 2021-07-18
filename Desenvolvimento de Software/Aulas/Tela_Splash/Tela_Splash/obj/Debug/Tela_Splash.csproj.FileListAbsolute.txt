@@ -1,0 +1,8 @@
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\bin\Debug\Tela_Splash.exe.config
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\bin\Debug\Tela_Splash.exe
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\bin\Debug\Tela_Splash.pdb
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\obj\Debug\Tela_Splash.Form1.resources
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\obj\Debug\Tela_Splash.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\obj\Debug\Tela_Splash.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\obj\Debug\Tela_Splash.exe
+F:\Nova pasta\Luis Carlos\Tela_Splash\Tela_Splash\obj\Debug\Tela_Splash.pdb

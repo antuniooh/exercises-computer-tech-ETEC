@@ -1,0 +1,12 @@
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe.config
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\bin\Debug\Exemplo01.pdb
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\obj\Debug\Exemplo01.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\obj\Debug\Exemplo01.exe
+C:\Users\ETECLG\Desktop\Exemplo01\Exemplo01\obj\Debug\Exemplo01.pdb
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe.config
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\obj\Debug\Exemplo01.exe
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\obj\Debug\Exemplo01.pdb
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\bin\Debug\Exemplo01.pdb
+E:\Nova pasta\Luis Carlos - DES\DES\1ª Aula (18-07-2017)\Exemplo01\Exemplo01\obj\Debug\Exemplo01.csprojResolveAssemblyReference.cache

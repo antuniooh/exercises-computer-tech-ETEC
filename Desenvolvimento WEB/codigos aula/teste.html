@@ -1,0 +1,15 @@
+<html>
+<head><script type="text/javascript">
+function validaForm(){
+if(document.form.nome.value.length <=1){
+alert("preencha o codigo");
+form.nome.focus();
+return false;
+}
+return true
+}
+</script>
+<body bgcolor="red">
+<form name="form" onSubmit="return validaForm(this);">
+Nome <input type="text" name="nome">
+<input type="submit" value="enviar"></form></body></html>

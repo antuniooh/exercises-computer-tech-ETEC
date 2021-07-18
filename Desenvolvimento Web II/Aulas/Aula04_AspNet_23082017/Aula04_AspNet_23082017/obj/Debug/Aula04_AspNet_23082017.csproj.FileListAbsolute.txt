@@ -1,0 +1,10 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula04_AspNet_23082017\Aula04_AspNet_23082017\bin\Aula04_AspNet_23082017.dll
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula04_AspNet_23082017\Aula04_AspNet_23082017\bin\Aula04_AspNet_23082017.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.dll
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.pdb
+F:\Nova pasta\Cleiton\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Cleiton\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.dll
+F:\Nova pasta\Cleiton\Aula04_AspNet_23082017\Aula04_AspNet_23082017\bin\Aula04_AspNet_23082017.dll
+F:\Nova pasta\Cleiton\Aula04_AspNet_23082017\Aula04_AspNet_23082017\bin\Aula04_AspNet_23082017.pdb
+F:\Nova pasta\Cleiton\Aula04_AspNet_23082017\Aula04_AspNet_23082017\obj\Debug\Aula04_AspNet_23082017.pdb

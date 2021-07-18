@@ -1,0 +1,12 @@
+F:\Nova pasta\LOP\Ex01_LOP_0405\Ex01_LOP_0405\bin\Debug\Ex01_LOP_0405.exe.config
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\bin\Debug\Ex01_LOP_0405.exe.config
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.Form1.resources
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\bin\Debug\Ex01_LOP_0405.exe
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\bin\Debug\Ex01_LOP_0405.pdb
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.exe
+C:\Users\ETECLG\Desktop\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.pdb
+F:\Nova pasta\LOP\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.exe
+F:\Nova pasta\LOP\Ex01_LOP_0405\Ex01_LOP_0405\obj\Debug\Ex01_LOP_0405.pdb

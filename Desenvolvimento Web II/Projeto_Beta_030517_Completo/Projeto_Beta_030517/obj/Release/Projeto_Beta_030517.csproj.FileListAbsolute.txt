@@ -1,0 +1,4 @@
+C:\Users\Cleiton Fabiano Patr\Documents\Visual Studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+C:\Users\Cleiton Fabiano Patr\Documents\Visual Studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+C:\Users\Cleiton Fabiano Patr\Documents\Visual Studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\obj\Release\Projeto_Beta_030517.dll
+C:\Users\Cleiton Fabiano Patr\Documents\Visual Studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\obj\Release\Projeto_Beta_030517.pdb

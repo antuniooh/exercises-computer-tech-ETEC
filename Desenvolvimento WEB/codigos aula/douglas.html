@@ -1,0 +1,39 @@
+	<html>
+	<head><title>teste de validação</title>
+	<SCRIPT LANGUAGE="JAVASCRIPT">
+ 	function validaForm(){
+  	if(document.form1.nome.value.length <=1)
+  	{ 
+   	alert("o campo nome não pode ficar em branco -Digite seu nome.");
+   	form1.nome.focus();
+   	return false;
+  	}
+	if(document.form1.rg.value.length <=1){
+	alert("preencha o RG, abestado são paulino e corinthiano, 	santista e palmeirense");
+	form1.rg.focus();
+        return false;
+	}
+	if(document.form1.CPF.value.length <=1){
+	alert("preencha o CPF, por favor, sua marmota abestada e 	cega");
+	form1.CPF.focus();
+        return false;
+	}
+	return true;
+     }
+	</script></head>
+	<body bgcolor="red" text="yellow">
+	<font face="algerian" size="3"><b> Os dados assinalados com 	(*) devem ser preenchidos</b></font>
+	<form name="form1" onSubmit="return validaForm(this);">
+	<p>* nome: <input type="text" name="nome" size="50" 	maxlength="50"></p>
+	<p>endereço:<input type="text" name="end" size="60"></p>
+	<input type="submit" value="enviar"></form>
+
+
+
+
+
+
+
+
+
+</body></html>

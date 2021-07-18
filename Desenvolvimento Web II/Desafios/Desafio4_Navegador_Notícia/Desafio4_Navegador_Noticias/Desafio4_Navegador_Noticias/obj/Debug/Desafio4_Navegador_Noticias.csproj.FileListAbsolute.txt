@@ -1,0 +1,5 @@
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Noticias\Desafio4_Navegador_Noticias\obj\Debug\Desafio4_Navegador_Noticias.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Noticias\Desafio4_Navegador_Noticias\bin\Desafio4_Navegador_Noticias.dll
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Noticias\Desafio4_Navegador_Noticias\bin\Desafio4_Navegador_Noticias.pdb
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Noticias\Desafio4_Navegador_Noticias\obj\Debug\Desafio4_Navegador_Noticias.dll
+F:\Nova pasta\Cleiton\Desafio4_Navegador_Noticias\Desafio4_Navegador_Noticias\obj\Debug\Desafio4_Navegador_Noticias.pdb

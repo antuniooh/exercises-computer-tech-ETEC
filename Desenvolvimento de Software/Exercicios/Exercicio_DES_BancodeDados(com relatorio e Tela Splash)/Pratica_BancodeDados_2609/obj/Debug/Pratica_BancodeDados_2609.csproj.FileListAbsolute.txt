@@ -1,0 +1,130 @@
+F:\Nova pasta\Luis Carlos\Pratica_BancodeDados_2609\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+F:\Nova pasta\Antonio - 03\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Antonio - 03\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Antonio - 03\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+\\LAB2653-21\Aluno\2EDES\Antonio - 03 - Beatriz - 05\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios_DES_BancodeDados\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+I:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormCadastro.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormLogin.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormTelaSplash.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+C:\Users\familia silva\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormCadastro.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormLogin.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormTelaSplash.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormCadastro.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormLogin.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormTelaSplash.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\RdlCompile.compiled
+G:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+G:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+G:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Debug\Pratica_BancodeDados_2609.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormCadastro.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormLogin.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FormTelaSplash.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmConsulta.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.FrmRelatorio.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.Properties.Resources.resources
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.csproj.CoreCompileInputs.cache
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.exe
+H:\Nova pasta\2° Semestre\Luis Carlos - DES\Exercicios\Exercicio_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Debug\Pratica_BancodeDados_2609.pdb

@@ -1,0 +1,12 @@
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\bin\Debug\Ex25_Lop3.exe.config
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\bin\Debug\Ex25_Lop3.exe
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\bin\Debug\Ex25_Lop3.pdb
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.csprojResolveAssemblyReference.cache
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.Form1.resources
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.Properties.Resources.resources
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.csproj.GenerateResource.Cache
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.exe
+F:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.pdb
+I:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\bin\Debug\Ex25_Lop3.exe.config
+I:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.exe
+I:\Nova pasta\LOP\Ex25_Lop3\Ex25_Lop3\obj\Debug\Ex25_Lop3.pdb

@@ -1,0 +1,97 @@
+<html>
+<head><title> Emprego Já! </title>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+function validaForm() {
+if(document.form1.nome.value.length <=1){
+alert ("O campo nome não pode ficar em branco! -Digite seu nome.")/
+form1.nome.focus();
+return false;
+}
+if(document.form1.end.value.length <=1){
+alert("Preencha o endereço!");
+form1.end.focus();
+return false;
+}
+if(document.form1.CPF.value.length <=1){
+alert("Preencha o CPF!");
+form1.CPF.focus();
+return false;
+}
+if (document.form1.RG.value.length <=1){
+alert("Preencha o RG!");
+form1.RG.focus();
+return false;
+}
+if (document.form1.Usuario.value.length <=1){
+alert("Preencha o Usuário");
+form1.Usuario.focus();
+return false;
+}
+if (document.form1.Senha.value.length <=1){
+alert("Preencha a Senha!");
+form1.Senha.focus();
+return false;
+}
+if (document.form1.Email.value.length <=1){
+alert("Preencha o E-mail!");
+form1.Email.focus();
+return false;
+}
+if (document.form1.Telefone.value.length <=1){
+alert("Preencha o Telefone!");
+form1.Telefone.focus();
+return false;
+}
+if (document.form1.Cel.value.length <=1){
+alert("Preencha o Celular!");
+form1.Cel.focus();
+return false;
+}
+
+return true;
+}
+</script></head>
+<center>
+<body bgcolor="2554848" text="yellow">
+<TABLE BORDER="0">
+<TR>
+<font face="Comic Sans MS" size="3"><b> Emprego Já! </b></font>
+<form name="form1" onSubmit="return validaForm(this);">
+</TR>
+<TR><TD>
+<p>* Nome: <input type="text" name="nome" size="20" maxlength="20"></p>
+</TD></TR>
+<TR><TD>
+<p> Endereço:<input type="text" name="end" size="60"></p>
+</TD></TR>
+<TR><TD>
+<p>* CPF: <input type="text" name="CPF" size="20" maxlength="20"></p>
+</TD><TD>
+<p>* RG: <input type="text" name="RG" size="20" maxlength="20"></p>
+</TD></TR>
+<TR><TD>
+<p> Reservista: <input type="text" name="Reservista" size="50" maxlength="50"></p>
+</TD></TR>
+<TR><TD>
+<p>*Usuário: <input type="text" name="Usuario" size="50" maxlength="50"></p>
+</TD><TD>
+<p>*Senha: <input type="password" name="Senha" size="20" maxlength="20"></p>
+</TD></TR>
+<TR><TD>
+<p>* E-mail: <input type="text" name="Email" size="50" maxlength="50"></p>
+</TD></TR>
+<TR><TD>
+<p>* Telefone: <input type="text" name="Telefone" size="20" maxlength="20"></p>
+</TD><TD>
+<p>* Cel: <input type="text" name="Cel" size="20" maxlength="20"></p>
+</TD></TR>
+<TR><TD>
+<p> Sexo: <input type="RADIO" Name="Sexo" Value="MASCULINO">Homem <Input type="RADIO" Name="Sexo"
+Value="FEMININO">Mulher </p>
+</TD></TR>
+<TR><TD>
+<p><input type="submit" value="enviar"></p>
+</TD></TR>
+</form>
+</center>
+</body></html>

@@ -1,0 +1,6 @@
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\bin\Debug\Ex22_SwitchCase_0405.exe.config
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\obj\Debug\Ex22_SwitchCase_0405.csprojResolveAssemblyReference.cache
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\bin\Debug\Ex22_SwitchCase_0405.exe
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\bin\Debug\Ex22_SwitchCase_0405.pdb
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\obj\Debug\Ex22_SwitchCase_0405.exe
+F:\Nova pasta\LOP\Ex22_SwitchCase_0405\Ex22_SwitchCase_0405\obj\Debug\Ex22_SwitchCase_0405.pdb

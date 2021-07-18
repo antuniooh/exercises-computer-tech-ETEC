@@ -1,0 +1,37 @@
+<html>
+<head><title> teste de validação </title>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+function validaForm() {
+if(document.form1.nome.value.length <=1){
+alert ("O campo nome não pode ficar em branco! -Digite seu nome.")/
+form1.nome.focus();
+return false;
+}
+if (document.form1.RG.value.length <=1){
+alert("Preencha o RG");
+form1.RG.focus();
+return false;
+}
+if(document.form1.CPF.value.length <=1){
+alert("Preencha o CPF, por favor.");
+form1.CPF.focus();
+return false;
+}
+if(document.form1.end.value.length <=1){
+alert("Preencha o endereço também, por favor.");
+form1.end.focus();
+return false;
+}
+return true;
+}
+</script></head>
+<body bgcolor="red" text="yellow">
+<font face="Comic Sans MS" size="3"><b> Os dados assinalados com (*) devem ser preenchidos. </b></font>
+<form name="form1" onSubmit="return validaForm(this);">
+<p>* nome: <input type="text" name="nome" size="50" maxlength="20"></p>
+<p>* RG: <input type="text" name="RG" size="50" maxlength="50"></p>
+<p>* CPF: <input type="text" name="CPF" size="50" maxlength="50"></p>
+<p> Endereço:<input type="text" name="end" size="60"></p>
+<input type="submit" value="enviar">
+</form>
+</body></html>

@@ -1,0 +1,11 @@
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\bin\Debug\AtividadeDES_1508.exe.config
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.AtividadeDES1508.resources
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\bin\Debug\AtividadeDES_1508.exe
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\bin\Debug\AtividadeDES_1508.pdb
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.exe
+F:\Nova pasta\Luis Carlos\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.pdb
+F:\Nova pasta\Luis Carlos - DES\Atividades e Provas\AtividadeDES_1508\AtividadeDES_1508\bin\Debug\AtividadeDES_1508.exe.config
+F:\Nova pasta\Luis Carlos - DES\Atividades e Provas\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.exe
+F:\Nova pasta\Luis Carlos - DES\Atividades e Provas\AtividadeDES_1508\AtividadeDES_1508\obj\Debug\AtividadeDES_1508.pdb

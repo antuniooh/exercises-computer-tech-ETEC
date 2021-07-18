@@ -1,0 +1,5 @@
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_PassaTempo\bin\Release\Passa_Tempo_DES.exe.config
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_PassaTempo\obj\Release\Passa_Tempo_DES.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_PassaTempo\obj\Release\Passa_Tempo_DES.Exibir_Gravar_Imagem.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_PassaTempo\obj\Release\Passa_Tempo_DES.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos - DES\Exercicios\Exercicio_DES_PassaTempo\obj\Release\Passa_Tempo_DES.csproj.GenerateResource.Cache

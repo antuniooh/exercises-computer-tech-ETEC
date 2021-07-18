@@ -1,0 +1,27 @@
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csprojResolveAssemblyReference.cache
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.dll
+c:\users\cleiton fabiano patr\documents\visual studio 2012\Projects\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.pdb
+F:\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+F:\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+F:\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csprojResolveAssemblyReference.cache
+F:\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.dll
+F:\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.pdb
+C:\Users\Cleiton Fabiano Patr\Desktop\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+C:\Users\Cleiton Fabiano Patr\Desktop\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+C:\Users\Cleiton Fabiano Patr\Desktop\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csprojResolveAssemblyReference.cache
+C:\Users\Cleiton Fabiano Patr\Desktop\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.dll
+C:\Users\Cleiton Fabiano Patr\Desktop\TCI 1S 2017\Projeto_Beta_030517\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.pdb
+G:\Nova pasta\Cleiton - TCI\Resumos Teoricos\Projeto Beta 2017\Projeto_Beta_030517_Completo\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+G:\Nova pasta\Cleiton - TCI\Resumos Teoricos\Projeto Beta 2017\Projeto_Beta_030517_Completo\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+G:\Nova pasta\Cleiton - TCI\Resumos Teoricos\Projeto Beta 2017\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csprojResolveAssemblyReference.cache
+G:\Nova pasta\Cleiton - TCI\Resumos Teoricos\Projeto Beta 2017\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.dll
+G:\Nova pasta\Cleiton - TCI\Resumos Teoricos\Projeto Beta 2017\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.pdb
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll.config
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\bin\Projeto_Beta_030517.dll
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\bin\Projeto_Beta_030517.pdb
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csprojResolveAssemblyReference.cache
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.csproj.CoreCompileInputs.cache
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.dll
+H:\Nova pasta\2° Semestre\Cleiton - TCI\Aulas\Projeto_Beta_030517_Completo\Projeto_Beta_030517\obj\Debug\Projeto_Beta_030517.pdb

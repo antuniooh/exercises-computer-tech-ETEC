@@ -1,0 +1,9 @@
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\bin\Debug\Ex17_LOP_230317.exe.config
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\bin\Debug\Ex17_LOP_230317.exe
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\bin\Debug\Ex17_LOP_230317.pdb
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.Form1.resources
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.exe
+C:\Users\ETECLG\Desktop\Ex17_LOP_230317\Ex17_LOP_230317\obj\Debug\Ex17_LOP_230317.pdb

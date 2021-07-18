@@ -1,0 +1,17 @@
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\bin\Debug\Exerc1.exe.config
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\bin\Debug\Exerc1.exe
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\bin\Debug\Exerc1.pdb
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.Form1.resources
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.Child.resources
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.Child2.resources
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.exe
+C:\Users\ETECLG\Desktop\Exerc1\Exerc1\obj\Debug\Exerc1.pdb
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc1\Exerc1\bin\Debug\Exerc1.exe.config
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc1\Exerc1\obj\Debug\Exerc1.exe
+C:\Users\ETECLG\Desktop\Antonio - 03\Exerc1\Exerc1\obj\Debug\Exerc1.pdb
+E:\Nova pasta\Luis Carlos - DES\Antonio - 03\Exerc1\Exerc1\bin\Debug\Exerc1.exe.config
+E:\Nova pasta\Luis Carlos - DES\Antonio - 03\Exerc1\Exerc1\obj\Debug\Exerc1.exe
+E:\Nova pasta\Luis Carlos - DES\Antonio - 03\Exerc1\Exerc1\obj\Debug\Exerc1.pdb

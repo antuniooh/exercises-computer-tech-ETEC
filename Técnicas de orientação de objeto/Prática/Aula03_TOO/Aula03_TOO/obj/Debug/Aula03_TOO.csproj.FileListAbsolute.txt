@@ -1,0 +1,12 @@
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\bin\Debug\Aula03_TOO.exe.config
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\bin\Debug\Aula03_TOO.exe
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\bin\Debug\Aula03_TOO.pdb
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.Form1.resources
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.Properties.Resources.resources
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.csproj.GenerateResource.Cache
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.exe
+F:\Nova pasta\Ulisses\TOO\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.pdb
+F:\Nova pasta\Ulisses - TOO\Prática\Aula03_TOO\Aula03_TOO\bin\Debug\Aula03_TOO.exe.config
+F:\Nova pasta\Ulisses - TOO\Prática\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.exe
+F:\Nova pasta\Ulisses - TOO\Prática\Aula03_TOO\Aula03_TOO\obj\Debug\Aula03_TOO.pdb

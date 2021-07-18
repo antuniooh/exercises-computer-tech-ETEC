@@ -1,0 +1,14 @@
+<HTML> 
+<STYLE TYPE="text/css"> 
+<!-- 
+H1 {font-family:impact; background: yellow;color:red}
+P {color: green} 
+--> 
+</STYLE> 
+<HEAD> 
+<TITLE>Mais um Exemplo se Style Sheet</TITLE> 
+</HEAD> 
+<BODY> 
+<H1>Neste exemplo, estou começando a dominar</H1> 
+<P>O Cascading Style Sheets</P> 
+</BODY>

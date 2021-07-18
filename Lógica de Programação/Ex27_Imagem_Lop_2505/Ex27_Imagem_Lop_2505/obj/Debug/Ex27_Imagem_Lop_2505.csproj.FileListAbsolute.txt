@@ -1,0 +1,12 @@
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\bin\Debug\Ex27_Imagem_Lop_2505.exe.config
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.csprojResolveAssemblyReference.cache
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.Form1.resources
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.Properties.Resources.resources
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.csproj.GenerateResource.Cache
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\bin\Debug\Ex27_Imagem_Lop_2505.exe
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\bin\Debug\Ex27_Imagem_Lop_2505.pdb
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.exe
+G:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.pdb
+I:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\bin\Debug\Ex27_Imagem_Lop_2505.exe.config
+I:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.exe
+I:\Nova pasta\LOP\Ex27_Imagem_Lop_2505\Ex27_Imagem_Lop_2505\obj\Debug\Ex27_Imagem_Lop_2505.pdb

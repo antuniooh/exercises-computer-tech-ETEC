@@ -1,0 +1,12 @@
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\bin\Release\Pratica_BancodeDados_2609.exe.config
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.CadastroDeCliente.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.FormCadastro.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.FormLogin.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.FormTelaSplash.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.FrmConsulta.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.FrmRelatorio.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\Pratica_BancodeDados_2609.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\RdlCompile.cache
+C:\Users\ETECLG\Desktop\Exercicios_DES_BancodeDados(com relatorio e Tela Splash)\Pratica_BancodeDados_2609\obj\Release\RdlCompile.compiled

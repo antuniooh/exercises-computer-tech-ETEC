@@ -1,0 +1,9 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\bin\Debug\Aula06_lop2_160317.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\bin\Debug\Aula06_lop2_160317.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\bin\Debug\Aula06_lop2_160317.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula06_lop2_160317\Aula06_lop2_160317\obj\Debug\Aula06_lop2_160317.pdb

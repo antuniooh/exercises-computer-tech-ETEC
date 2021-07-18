@@ -1,0 +1,12 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Ex18_LOP2_30.03.17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Ex18_LOP2_30.03.17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Ex18_LOP2_30.03.17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

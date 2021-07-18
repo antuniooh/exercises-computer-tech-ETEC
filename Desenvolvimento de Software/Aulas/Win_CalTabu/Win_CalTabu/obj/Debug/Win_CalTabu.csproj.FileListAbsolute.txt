@@ -1,0 +1,12 @@
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\bin\Debug\Win_CalTabu.exe.config
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\bin\Debug\Win_CalTabu.exe
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\bin\Debug\Win_CalTabu.pdb
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.FrmTabu.resources
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.exe
+F:\Nova pasta\Luis Carlos\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.pdb
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_CalTabu\Win_CalTabu\bin\Debug\Win_CalTabu.exe.config
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.exe
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_CalTabu\Win_CalTabu\obj\Debug\Win_CalTabu.pdb

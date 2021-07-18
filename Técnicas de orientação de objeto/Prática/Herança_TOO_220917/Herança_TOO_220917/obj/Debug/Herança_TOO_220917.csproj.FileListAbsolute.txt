@@ -1,0 +1,9 @@
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\bin\Debug\Herança_TOO_220917.exe.config
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\bin\Debug\Herança_TOO_220917.exe
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\bin\Debug\Herança_TOO_220917.pdb
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.Form1.resources
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.exe
+C:\Users\ETECLG\Desktop\Herança_TOO_220917\Herança_TOO_220917\obj\Debug\Herança_TOO_220917.pdb

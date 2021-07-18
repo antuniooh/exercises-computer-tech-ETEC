@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_Banco01_SQLSERVER", "Win_Banco01_SQLSERVER\Win_Banco01_SQLSERVER.csproj", "{84CD5154-EBE1-422D-877E-3D3822F5EA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84CD5154-EBE1-422D-877E-3D3822F5EA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CD5154-EBE1-422D-877E-3D3822F5EA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CD5154-EBE1-422D-877E-3D3822F5EA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CD5154-EBE1-422D-877E-3D3822F5EA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

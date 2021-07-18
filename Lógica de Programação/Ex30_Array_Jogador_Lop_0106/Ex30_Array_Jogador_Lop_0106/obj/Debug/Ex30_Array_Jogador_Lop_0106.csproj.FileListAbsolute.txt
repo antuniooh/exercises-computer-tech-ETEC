@@ -1,0 +1,9 @@
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\bin\Debug\Ex30_Array_Jogador_Lop_0106.exe.config
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\bin\Debug\Ex30_Array_Jogador_Lop_0106.exe
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\bin\Debug\Ex30_Array_Jogador_Lop_0106.pdb
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.csprojResolveAssemblyReference.cache
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.Form1.resources
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.Properties.Resources.resources
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.csproj.GenerateResource.Cache
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.exe
+F:\Nova pasta\LOP\Ex30_Array_Jogador_Lop_0106\Ex30_Array_Jogador_Lop_0106\obj\Debug\Ex30_Array_Jogador_Lop_0106.pdb

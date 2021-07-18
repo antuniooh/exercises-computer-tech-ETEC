@@ -1,0 +1,12 @@
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\bin\Debug\Ex26_Nave_Lop.exe.config
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\bin\Debug\Ex26_Nave_Lop.exe
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\bin\Debug\Ex26_Nave_Lop.pdb
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.csprojResolveAssemblyReference.cache
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.Form1.resources
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.Properties.Resources.resources
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.csproj.GenerateResource.Cache
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.exe
+G:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.pdb
+F:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\bin\Debug\Ex26_Nave_Lop.exe.config
+F:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.exe
+F:\Nova pasta\LOP\Ex26_Nave_Lop\Ex26_Nave_Lop\obj\Debug\Ex26_Nave_Lop.pdb

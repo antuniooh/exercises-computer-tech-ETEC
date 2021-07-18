@@ -1,0 +1,14 @@
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\bin\Debug\Win_Relatorio_SQLServer01.exe.config
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\bin\Debug\Win_Relatorio_SQLServer01.exe
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\bin\Debug\Win_Relatorio_SQLServer01.pdb
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.FrmRelatorioSQLServer.resources
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.Properties.Resources.resources
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.csproj.GenerateResource.Cache
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\RdlCompile.cache
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\RdlCompile.compiled
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.exe
+F:\Nova pasta\Luis Carlos\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.pdb
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\bin\Debug\Win_Relatorio_SQLServer01.exe.config
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.exe
+F:\Nova pasta\Luis Carlos - DES\Aulas\Win_Relatorio_SQLServer01\Win_Relatorio_SQLServer01\obj\Debug\Win_Relatorio_SQLServer01.pdb

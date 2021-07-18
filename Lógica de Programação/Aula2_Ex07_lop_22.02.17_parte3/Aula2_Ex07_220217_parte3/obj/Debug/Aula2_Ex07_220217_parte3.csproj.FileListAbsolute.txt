@@ -1,0 +1,12 @@
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\bin\Debug\Aula2_Ex07_220217_parte3.exe.config
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.csprojResolveAssemblyReference.cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.Form1.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.Properties.Resources.resources
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.csproj.GenerateResource.Cache
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\bin\Debug\Aula2_Ex07_220217_parte3.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\bin\Debug\Aula2_Ex07_220217_parte3.pdb
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.exe
+c:\users\eteclg\documents\visual studio 2012\Projects\Aula2_Ex07_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.pdb
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_Ex07_lop_220217_parte3\Aula2_Ex07_220217_parte3\bin\Debug\Aula2_Ex07_220217_parte3.exe.config
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_Ex07_lop_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.exe
+F:\Conteudo\ETEC\Cleiton Etec\LOP\Aula2_Ex07_lop_220217_parte3\Aula2_Ex07_220217_parte3\obj\Debug\Aula2_Ex07_220217_parte3.pdb

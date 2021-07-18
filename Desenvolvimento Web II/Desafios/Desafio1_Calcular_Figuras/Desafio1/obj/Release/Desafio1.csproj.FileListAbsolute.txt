@@ -1,0 +1,8 @@
+F:\Nova pasta\Desafio1\Desafio1\bin\Desafio1.dll
+F:\Nova pasta\Desafio1\Desafio1\bin\Desafio1.pdb
+F:\Nova pasta\Desafio1\Desafio1\obj\Release\Desafio1.dll
+F:\Nova pasta\Desafio1\Desafio1\obj\Release\Desafio1.pdb
+I:\Nova pasta\Cleiton\Desafio1_Calcular_Figuras\Desafio1\bin\Desafio1.dll
+I:\Nova pasta\Cleiton\Desafio1_Calcular_Figuras\Desafio1\bin\Desafio1.pdb
+I:\Nova pasta\Cleiton\Desafio1_Calcular_Figuras\Desafio1\obj\Release\Desafio1.dll
+I:\Nova pasta\Cleiton\Desafio1_Calcular_Figuras\Desafio1\obj\Release\Desafio1.pdb

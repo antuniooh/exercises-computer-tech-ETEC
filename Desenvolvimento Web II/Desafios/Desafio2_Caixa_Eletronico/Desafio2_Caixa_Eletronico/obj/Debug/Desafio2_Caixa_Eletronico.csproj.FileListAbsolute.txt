@@ -1,0 +1,5 @@
+C:\Users\ETECLG\Desktop\Desafio2_Caixa_Eletronico\Desafio2_Caixa_Eletronico\bin\Desafio2_Caixa_Eletronico.dll
+C:\Users\ETECLG\Desktop\Desafio2_Caixa_Eletronico\Desafio2_Caixa_Eletronico\bin\Desafio2_Caixa_Eletronico.pdb
+C:\Users\ETECLG\Desktop\Desafio2_Caixa_Eletronico\Desafio2_Caixa_Eletronico\obj\Debug\Desafio2_Caixa_Eletronico.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Desafio2_Caixa_Eletronico\Desafio2_Caixa_Eletronico\obj\Debug\Desafio2_Caixa_Eletronico.dll
+C:\Users\ETECLG\Desktop\Desafio2_Caixa_Eletronico\Desafio2_Caixa_Eletronico\obj\Debug\Desafio2_Caixa_Eletronico.pdb

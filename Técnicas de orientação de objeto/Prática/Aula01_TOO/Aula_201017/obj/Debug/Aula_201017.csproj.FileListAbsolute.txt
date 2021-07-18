@@ -1,0 +1,9 @@
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\bin\Debug\Aula_201017.exe.config
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.csprojResolveAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.csproj.GenerateResource.Cache
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\bin\Debug\Aula_201017.exe
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\bin\Debug\Aula_201017.pdb
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.Form1.resources
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.exe
+C:\Users\ETECLG\Desktop\Aula_201017\Aula_201017\obj\Debug\Aula_201017.pdb
