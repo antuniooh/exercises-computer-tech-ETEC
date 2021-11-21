@@ -27,5 +27,5 @@
 - **[MIT license](https://opensource.org/licenses/MIT)**	
 - Copyright 2021 © <a href="https://www.linkedin.com/in/antuniooh" target="_blank">antuniooh</a>.
 
-## ETEC Laurto Gomes 
+## ETEC Lauro Gomes 
 * [ETEC](http://www.etelg.com.br/) 
